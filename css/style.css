@@ -1,0 +1,8 @@
+.circle{
+  width: 170px;
+  height: 155px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  float: left;
+}
